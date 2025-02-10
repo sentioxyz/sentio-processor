@@ -9,5 +9,8 @@
     "build": "sentio build",
     "upload": "sentio upload",
     "postinstall": "sentio gen"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14"
   }
 }
